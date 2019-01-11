@@ -1,4 +1,4 @@
-# mytube
+# MyTube
 a video sharing system base on docker and clipbucket
 
  The video sharing system based on docker and clipbucket is actually installing clipbucket on docker and doing localization and modification. 
